@@ -1,0 +1,14 @@
+.char-details{
+    padding: 25px 25px 15px 25px;
+    background-color: #fff;
+    margin-bottom: 40;
+}
+.char-details h4{
+    margin-right: 20px;
+    text-align: center;
+}
+.select-error{
+    color: #fff;
+    margin-right: 26px;
+    text-align: center;
+}

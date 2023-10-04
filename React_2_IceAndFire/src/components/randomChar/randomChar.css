@@ -1,0 +1,12 @@
+.random-block{
+    padding: 25px 25px 15px 25px;
+    background-color: #fff;
+    margin-bottom: 40;
+}
+.random-block h4{
+    margin-right: 20px;
+    text-align: center;
+}
+.term{
+    font-weight: bold;
+}
